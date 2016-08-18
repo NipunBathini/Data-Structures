@@ -1,0 +1,9 @@
+Nipun Bathini
+
+1. Words that contain the same letters, for example cars and scar.
+2. stringHash2() would be superior because you would be able to use more specific hashs, and can even be faster.
+3. No, it is not possible for your size() function to  return different values.
+4. No, it is not possible for your tableLoad() function  to return different values
+5, Yes, you could get a different number of empty buckets.
+6. No there would not be.
+7.

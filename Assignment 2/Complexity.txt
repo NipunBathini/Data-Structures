@@ -1,0 +1,11 @@
+Nipun Bathini 
+Complexity.txt file
+
+
+What is the big-Oh execution time of:
+1) The while loop at the end of the program? = 3 points
+- O(n)
+2) The inner while loop? = 3 points
+- O(n)
+3) The outermost while loop at the beginning of the program? = 4 points
+-  O(n^2)
